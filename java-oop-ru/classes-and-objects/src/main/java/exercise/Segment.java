@@ -10,7 +10,7 @@ public class Segment {
         this.b = b;
     }
 
-    public Point getBuginPoint() {
+    public Point getBeginPoint() {
         return a;
     }
 
