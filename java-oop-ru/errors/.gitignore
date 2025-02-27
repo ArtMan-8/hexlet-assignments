@@ -1,4 +1,6 @@
-.gradle/
-build/
-caches/
-.idea/
+.idea
+.gigaide
+.gradle
+
+build
+caches
