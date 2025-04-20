@@ -1,0 +1,22 @@
+# WARNING: Paths must not include the name of the "lessons" directory.
+# Outside, this directory is called "exercises".
+
+.idea
+.gigaide
+.vscode
+
+.gradle
+
+caches
+build
+dist
+bin
+
+.vagrant
+.project
+.settings
+.classpath
+vendor/
+node_modules/
+jte-classes
+**/*/presentation*.html
