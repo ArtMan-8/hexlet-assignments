@@ -17,7 +17,7 @@ public class SessionsController {
         ctx.render("index.jte", model("page", page));
     }
 
-    public static void build(Context ctx) throws Exception{
+    public static void build(Context ctx) throws Exception {
         var page = new LoginPage(null, null);
         ctx.render("build.jte", model("page", page));
     }
